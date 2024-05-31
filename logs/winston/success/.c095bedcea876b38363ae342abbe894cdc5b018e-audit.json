@@ -1,0 +1,140 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\practice\\University-project\\logs\\winston\\success\\.c095bedcea876b38363ae342abbe894cdc5b018e-audit.json",
+    "files": [
+        {
+            "date": 1716359143237,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-22-05-12-success.log",
+            "hash": "4bcb08f3375af190bae96d5ef1ff14b0b3579e0b8510cca77e1ca326a55b49f8"
+        },
+        {
+            "date": 1716361217456,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-22-05-13-success.log",
+            "hash": "6557c2bb79fd11e01ce8aa71c07fa4bc33fd08e05eaa4a78654e505602b2999f"
+        },
+        {
+            "date": 1716369544142,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-22-05-15-success.log",
+            "hash": "33833e3fd0d7bb762a33663085763ff9272ed25fa0bde5b1b206be642413f74f"
+        },
+        {
+            "date": 1716528457324,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-24-05-11-success.log",
+            "hash": "804c553a7afca86999b15f568f65bf836656588bb2af40fc4e7f71460cadafef"
+        },
+        {
+            "date": 1716530475053,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-24-05-12-success.log",
+            "hash": "2568d492790c33d0e56486082e213a391d7cce0551b2fcb1f3679c298bf9c5c3"
+        },
+        {
+            "date": 1716573498543,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-24-05-23-success.log",
+            "hash": "b30c0b94532bbe8c5d9f866a5d20c3fd8c193c5a180a5943701c1ee4a766c120"
+        },
+        {
+            "date": 1716573628309,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-25-05-00-success.log",
+            "hash": "d434c917d94e72efa30424ebf2965212ff7247201530877004657383780ff8e0"
+        },
+        {
+            "date": 1716577353210,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-25-05-01-success.log",
+            "hash": "990e79ee5bdb7c17d03e96f872cd7398a201e0a9fc7261d8f1793463e93b084f"
+        },
+        {
+            "date": 1716893039419,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-28-05-16-success.log",
+            "hash": "3cbd1bb9f71ab77a5cb6dacc5bdf25790251184fdaf21375fee1a1e4c8391888"
+        },
+        {
+            "date": 1716915824060,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-28-05-23-success.log",
+            "hash": "0ffab3ea0db7d6889dbaac7d591c6a2413c5d514d51cf27c65ba1a376ba49662"
+        },
+        {
+            "date": 1716922741359,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-29-05-00-success.log",
+            "hash": "df57cbb48754443294169691e647b1662e901ff83a11eaa6a311beaf448ddd25"
+        },
+        {
+            "date": 1716922948844,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-29-05-01-success.log",
+            "hash": "95bda238a9a7814b80ec1d2353ef71b88e61e0fcf53590e609de5861b3d6c7b0"
+        },
+        {
+            "date": 1716973861821,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-29-05-15-success.log",
+            "hash": "10942d5a6d84c43c7657f60cc73cd3a540eb1b0ce4c145b3c2b67069b3ef502a"
+        },
+        {
+            "date": 1716977791694,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-29-05-16-success.log",
+            "hash": "002ecb9b733fe0bdb6d9b9abe51fe39e2c72e9fbc6fecb7c35c0f46259e99e76"
+        },
+        {
+            "date": 1717005338776,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-29-05-23-success.log",
+            "hash": "078d7516ed0f1b259089fcd1a0ab36e9efc125b6b21dfd254df05dd5a5dd7a1f"
+        },
+        {
+            "date": 1717009270351,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-30-05-01-success.log",
+            "hash": "63bd8692a68d3d37e74f5da88596defe4f07d037896ff6e7207cd62555179451"
+        },
+        {
+            "date": 1717051581713,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-30-05-12-success.log",
+            "hash": "660ce996964e5637ea4518ce1939c791adc48b175730fde4bd3f7d6eab0414b7"
+        },
+        {
+            "date": 1717052460599,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-30-05-13-success.log",
+            "hash": "37549c26dbb9089f7c66720e2f091c72ddb9cbceb834a7027d182c9d1fd0418c"
+        },
+        {
+            "date": 1717099403547,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-31-05-02-success.log",
+            "hash": "79a56e0794eeb30983a30e563b196df687edd503bde9cdf42f511df07f445ca2"
+        },
+        {
+            "date": 1717135929855,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-31-05-12-success.log",
+            "hash": "3e0857dda39da3e5f1c552aea088097ccbd8ceff4fc3470ef4dd275167cef0b9"
+        },
+        {
+            "date": 1717138895378,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-31-05-13-success.log",
+            "hash": "a1cd8ca4f43a28c2563ae23a99e7426cb4eeed7ef6f723a68603301af6ecd9c0"
+        },
+        {
+            "date": 1717149223047,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-31-05-15-success.log",
+            "hash": "5bfa1d27b43fd1b37d92c2e898b3052cd76def4e4285ee914f94109df9e0040b"
+        },
+        {
+            "date": 1717149810445,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-31-05-16-success.log",
+            "hash": "2737d269d7c1cf5664b0f10ad8ef582baff40283742784cac1afe25e7ee95643"
+        },
+        {
+            "date": 1717170091773,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-31-05-21-success.log",
+            "hash": "6e38f9687c00c98678bc57c66c9c20c80320694174a64bb669858927fddd191d"
+        },
+        {
+            "date": 1717171215577,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-31-05-22-success.log",
+            "hash": "25988f60b99ede3c633f970f1778b1f7fe3294b1461ad87c2ae03615752d89fe"
+        },
+        {
+            "date": 1717179241844,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[PHU]-2024-01-06-00-success.log",
+            "hash": "a1a3381de27910a40802fddf9e96ed2dc7d6ec14ead21c7e20c41dfeebc74232"
+        }
+    ],
+    "hashType": "sha256"
+}

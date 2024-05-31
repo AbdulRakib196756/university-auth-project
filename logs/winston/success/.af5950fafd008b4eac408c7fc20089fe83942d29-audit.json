@@ -1,0 +1,40 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\practice\\University-project\\logs\\winston\\success\\.af5950fafd008b4eac408c7fc20089fe83942d29-audit.json",
+    "files": [
+        {
+            "date": 1711189843541,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[up]-2024-23-03-16-success.log",
+            "hash": "84734ea89af56ef14010114c7e8602f100fc3f3300ec40923568a9c2cbf9c9d8"
+        },
+        {
+            "date": 1711191875322,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[up]-2024-23-03-17-success.log",
+            "hash": "fae860e7b7bf3610f629238bb6807c45d1f76d865c7657e7b670dbc0d347a3f7"
+        },
+        {
+            "date": 1711523169897,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[up]-2024-27-03-13-success.log",
+            "hash": "ceac381857c6dd60f5fe6673d0d850d81573f1ab4e4dd66b7162e8f24c0e0f3e"
+        },
+        {
+            "date": 1711955855000,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[up]-2024-01-04-13-success.log",
+            "hash": "e79ffdeda57f3aafd9a9e33e3f16bfc047159fa35621839c3a121907a89060f7"
+        },
+        {
+            "date": 1711964759713,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[up]-2024-01-04-15-success.log",
+            "hash": "4590e8beb5567842018a191fd0fe35ee053ac0c74df729066b640cb68ea0fb0a"
+        },
+        {
+            "date": 1711967160977,
+            "name": "D:\\practice\\University-project\\logs\\winston\\success\\[up]-2024-01-04-16-success.log",
+            "hash": "79249303293c69d6c5ea205b729cc273a86581010a95343fc5a88cb38675a449"
+        }
+    ],
+    "hashType": "sha256"
+}
