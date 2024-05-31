@@ -1,7 +1,7 @@
 Sure! Here is a `README.md` file tailored to your specific University Management System project:
 
 ```markdown
-# University Management System
+# University-auth-project
 
 ## Overview
 
@@ -119,7 +119,7 @@ The following endpoints are available in the application:
 
 ## Live Demo
 
-You can view the live demo of the application at: [Live Demo](https://university-auth-backend-qok0t2i4x-abdulrakib196756s-projects.vercel.app/)
+You can view the live demo of the application at: [Live Demo](https://university-auth-backend-qok0t2i4x-abdulrakib196756s-projects.vercel.app/api/v1/student/)
 
 ## Folder Structure
 
@@ -168,7 +168,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-Your Name - [your.email@example.com](mailto:abrakib94@gmail.com)
+Your Name - [abrakib94@gmail.com](mailto:abrakib94@gmail.com)
 
 Project Link: [https://github.com/yourusername/university-management-system](https://github.com/yourusername/university-management-system)
 ```
